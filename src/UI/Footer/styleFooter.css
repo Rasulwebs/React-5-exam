@@ -1,0 +1,10 @@
+.footerLogo{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    opacity: 0.8;
+    object-fit: cover;
+}
+.footerLink:hover{
+text-decoration: underline;
+}

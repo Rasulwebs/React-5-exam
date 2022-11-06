@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+main{
+    min-height: calc(100vh - 50px - 60px);
+}
+.container-fluid {
+ overflow-x: hidden;
+ 
+
+}
+.qwerty{
+    padding:20px 60px !important;
+}
+.activeBorder{
+    border-radius: 10px;
+    padding-bottom: 5px;
+border-bottom:  2px solid red;
+}
+.page-item{
+    cursor: pointer;
+}

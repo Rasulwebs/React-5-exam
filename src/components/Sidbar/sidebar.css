@@ -1,0 +1,17 @@
+.acc_desc{
+    font-size: 14px ;
+}
+.avatar-img{
+    
+    width: 350px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    
+}
+.tg_link:hover{
+color: dodgerblue !important;
+text-decoration: underline;
+}
+.followLink:hover{
+    color: dodgerblue !important;
+}

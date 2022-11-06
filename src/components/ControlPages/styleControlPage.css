@@ -1,0 +1,8 @@
+
+.navLink:hover{
+background-color: rgba(149, 149, 149, 0.526);
+border-radius: 12px;
+}
+.navLink{
+    border-radius: 10px;
+}
